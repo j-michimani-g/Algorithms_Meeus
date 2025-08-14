@@ -1,4 +1,4 @@
-Astronomical Algorithms- Jean Meeus (1991).pdf
+Astronomical_Algorithms-Jean_Meeus_1991.pdf
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
